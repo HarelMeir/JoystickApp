@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">JoystickApp</string>
+    <string name="ip_tag">IP:</string>
+    <string name="port_tag">Port:</string>
+    <string name="connection_err">The connection failed!</string>
+    <string name="confirm_str">Confirm</string>
+    <string name="ip">IP</string>
+    <string name="Port">Port</string>
+</resources>
