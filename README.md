@@ -18,3 +18,5 @@ follow These steps:
 7. Click "fly", and start the engine at the fg.
 8. if you are connected, enjoy with your magic stick! and there are side bar too. crazy.
 
+video : https://www.youtube.com/watch?v=HFZf81Lqs6E
+
